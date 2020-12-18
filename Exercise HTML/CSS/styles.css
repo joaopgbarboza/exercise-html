@@ -1,0 +1,157 @@
+*{
+  margin: 0;
+}
+
+header {
+  width: 100%;
+  background-color: navy;
+}
+  .nav{
+  width: 1200px;
+  height: 60px;
+  border: 1px solid red;
+  margin: auto;
+  position: relative;
+
+}
+    .logo{
+      float:left;
+      padding: 20px;
+      color: white;
+      margin-right: 100px;
+      font-family: arial, sans-serif;
+    }
+
+    .menu-lista{
+      display: inline-block;
+      padding: 20px;
+      position: absolute;
+      margin-left: 45%;
+    }
+
+      .menu-item{
+        display: inline-block;
+        font-family: arial, sans-serif;
+        color: white;
+        padding-left: 20px;
+      }
+
+.first-container{
+  width: 100%;
+  background-color: lightgreen;
+}
+
+  .box1{
+    width: 1200px;
+    border: 1px solid blue;
+    margin: auto;
+    text-align: center;
+  }
+    .avatar{
+      margin-top: 50px;
+      margin-bottom: 40px;
+    }
+
+    .description{
+      color: white;
+      padding: 20px;
+      margin-bottom: 10px;
+    }
+
+    .title1{
+      color: white;
+      font-family: arial, sans-serif;
+      padding: 10px;
+      font-size: 20px;
+    }
+
+    .light{
+      margin-top: 10px;
+    }
+
+.second-container{
+  width: 100%;
+  background-color: white;
+}
+  .box2{
+    width: 1200px;
+    border: 1px solid blue;
+    margin: auto;
+    text-align: center;
+  }
+
+    .portfolio{
+      font-size: 20px;
+      font-family: arial, sans-serif;
+      padding: 20px;
+      margin-top: 20px;
+    }
+
+    .dark{
+      margin-bottom: 20px;
+    }
+
+    .images{
+      padding: 10px;
+      margin-bottom: 20px;
+    }
+      .image-box{
+        padding: 5px;
+      }
+
+.third-container{
+  width: 100%;
+  background-color: lightgreen;
+}
+  .box3{
+    width: 1200px;
+    border: 1px solid yellow;
+    margin: auto;
+    text-align: center;
+  }
+
+    .about{
+      color: white;
+      font-size: 20px;
+      font-family: arial, sans-serif;
+      padding: 20px;
+      margin-top: 20px;
+    }
+
+    .light-bottom{
+      margin-bottom: 10px;
+    }
+
+    .text{
+      color: white;
+      width: 800px;
+      margin: auto;
+      font-family: arial, sans-serif;
+      font-size: 16px;
+    }
+      .p1{
+        display: inline-block;
+        text-align: justify;
+        margin-top: 20px;
+        margin-bottom: 30px;
+      }
+
+        .coluna1{
+          padding-left: 15px;
+        }
+
+        .coluna2{
+          padding-right: 15px;
+        }
+
+      .button-free{
+        font-size: 25px;
+        margin: auto;
+        padding: 10px;
+        width: 150px;
+        border:1px;
+        border-radius: 6px;
+        border: 1px solid white;
+        color: white;
+        margin-bottom: 30px;
+      }
